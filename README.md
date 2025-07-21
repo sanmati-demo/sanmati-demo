@@ -1,10 +1,11 @@
 ## Hey there ! 
 
+⚡ Fun fact: I'm learning
+
 <!--
 **sanmati-demo/sanmati-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<img width="589" height="875" alt="Screenshot 2025-07-16 192710" src="https://github.com/user-attachments/assets/a102f5ff-671c-4628-bf4d-6d3a0bf5b98e" />
+
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
